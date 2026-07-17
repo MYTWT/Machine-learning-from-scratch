@@ -7,4 +7,5 @@ Learning Machine learning from scratch with:
 
 -Projects
 
-## Current Progress
+## Current Progress:
+-
